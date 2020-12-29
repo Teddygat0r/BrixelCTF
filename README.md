@@ -8,6 +8,7 @@ Ctf At: https://ctf.brixel.space/
 
 On the homepage there is a hidden flag. It's a Source of easy points!
 <br />
+
 **Solution**
 
 Inspect Element to find the Flag!
