@@ -127,6 +127,8 @@ His snackbar is called Cafetaria 't pleintje
 timesink.be/snackshackaward/
 
 **Solution**
+
 When you go to this site, you are able to vote for a snack shack, and give it a specific amount of points.  You need to modify the amount of points you give to 5000.  To do this, you can go into inspect element, and modify the amount of points you enter to 5000.  
-Here is an example: `https://prnt.sc/wbx1sp`
+
+Here is an example: https://prnt.sc/wbx1sp
 
