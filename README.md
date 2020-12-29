@@ -47,6 +47,7 @@ This problem references a very common file found on most websites, the robots.tx
 ## login1
 
 **Challenge Link**
+
 My buddy is trying to become a web developer, he made this little login page. Can you get the password?
 <br />
 
@@ -59,6 +60,7 @@ If you inspect element, you can see the login details in the javascript.
 ## login2
 
 **Challenge Link**
+
 Cool, you found the first password! He secured it more, could you try again?
 
 http://timesink.be/login2/index.html
@@ -70,6 +72,7 @@ If you inspect element, you can see the parts of the password all split up.  If 
 ## login3
 
 **Challenge Link**
+
 Nice! you found another one! He changed it up a bit again, could you try again?
 
 http://timesink.be/login3/index.html
@@ -80,27 +83,32 @@ This time, when you inspect element, you can see that the password is stored in 
 ## login4
 
 **Challenge Link**
+
 Whow, another one! You're good! So I told my buddy how you managed to get the password last time, and he fixed it. Could you check again please?
 
 http://timesink.be/login4/index.html
 
 **Solution**
+
 This time, when you go to http://timesink.be/login4/password.txt, you see the password encrypted in base64.  Decode it to get the flag.
 
 ## login5
 
 **Challenge Link**
+
 Ok, THIS time it should be fine! if you find this one he is going to quit trying.
 
 http://timesink.be/login5/index.html
 
 **Solution**
+
 This time the javascript is heavily obfuscated and basically impossible to read.  However, the password is still stored there, and you can copy the code, and compile/run it on your own to get the password.  
 https://repl.it/@Teddygat0r/MediumorchidFilthyIntranet#index.js
 
 ## Browsercheck
 
 **Challenge Link**
+
 I found this weird website, but it will only allow 'ask jeeves crawler' to enter?
 
 Can you get me in?
@@ -115,6 +123,7 @@ This challenge basically checks what browser you're using, and will only let you
 ## SnackShack awards
 
 **Challenge Link**
+
 A friend of mine owns a snackbar and is entered in a competition to win an award.
 
 It seems he is not going to win because he has a low amount of votes :(
