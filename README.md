@@ -2,12 +2,14 @@
 
 Ctf At: https://ctf.brixel.space/
 
-## widthless
+## Easy
 
 **Challenge Link**
 
-Welcome to web! Let's start off with something kinda funky :)
+On the homepage there is a hidden flag. It's a Source of easy points!
 <br />
-http://web.chal.csaw.io:5018
-
 **Solution**
+
+Inspect Element to find the Flag!
+
+
