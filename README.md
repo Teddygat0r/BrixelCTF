@@ -78,6 +78,7 @@ Nice! you found another one! He changed it up a bit again, could you try again?
 http://timesink.be/login3/index.html
 
 **Solution**
+
 This time, when you inspect element, you can see that the password is stored in the password.txt file.  Simply go to http://timesink.be/login3/password.txt to get the flag.
 
 ## login4
@@ -133,7 +134,7 @@ Do you think you can boost his votes? adding 5000 votes at once should do the tr
 His snackbar is called Cafetaria 't pleintje
 
 
-timesink.be/snackshackaward/
+http://timesink.be/snackshackaward/
 
 **Solution**
 
